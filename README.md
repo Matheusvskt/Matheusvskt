@@ -25,6 +25,6 @@ Hey 👋 My name is Matheus Vieira student of Information Systems at the Federal
   <a href = "mailto:matheusilvavieira99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-silva-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Matheusvskt/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/Matheusvskt/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
