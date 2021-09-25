@@ -1,4 +1,4 @@
-Hey 👋 I am Matheus Vieira
+Hey 👋 My name is Matheus Vieira student of Information Systems at the Federal University of Uberlândia - UFU
 <div align="center">
   <a href="https://github.com/Matheusvskt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusvskt&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
